@@ -35,7 +35,7 @@ elif user_input == 2:
     print("User Input: Scissors\n"+ scissors)
 else:
     print("Invalid choice. Please type 0, 1, or 2.")
-exit()
+    exit()
 
 import random
 
